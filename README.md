@@ -9,4 +9,5 @@ The code is organized into two primary components to allow for reproduction of t
 
 ## Citation
 If you use this code or the SIM framework in your research, please cite:
-Shahmoon, E., Yechezkel, M., Snir, S., Perez, M. V., Brandeau, M. L., & Yamin, D. (2026). Enhancing Randomized Controlled Trials Through Smartwatch-Guided Participant Matching. Research Square (Preprint). DOI: 10.21203/rs.3.rs-8366773/v1.
+
+Shahmoon, E., Yechezkel, M., Snir, S. et al. Enhancing randomized controlled trials through smartwatch-guided participant matching for infectious disease outcomes. Sci Rep (2026). https://doi.org/10.1038/s41598-026-52579-4
